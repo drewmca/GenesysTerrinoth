@@ -1,0 +1,49 @@
+{   
+   "name": "terrinoth-compendiums",   
+   "title": "Genesys: Terrinoth Compendiums",   
+   "description": "Compendiums for Genesys: Realms of Terrinoth",   
+   "author": "Mancer#5034",
+   "version": "0.1",
+   "system": ["starwarsffg"],
+   "minimumCoreVersion": "9",
+   "packs": [
+	{
+		"name": "terrinoth-adversaries",
+		"label": "Terrinoth Adversaries",
+		"path": "packs/terrinoth-adversaries.db",
+		"entity": "Actor"
+	},
+	{
+		"name": "terrinoth-talents",
+		"label": "Terrinoth Talents",
+		"path": "packs/terrinoth-talents.db",
+		"entity": "Item"
+	},
+	{
+		"name": "terrinoth-armor",
+		"label": "Terrinoth Armor",
+		"path": "packs/terrinoth-armor.db",
+		"entity": "Item"
+	},
+	{
+		"name": "terrinoth-weapons",
+		"label": "Terrinoth Weapons",
+		"path": "packs/terrinoth-weapons.db",
+		"entity": "Item"
+	},
+	{
+		"name": "terrinoth-gear",
+		"label": "Terrinoth Gear",
+		"path": "packs/terrinoth-gear.db",
+		"entity": "Item"
+	},
+	{
+		"name": "terrinoth-attachments",
+		"label": "Terrinoth Item Attachments",
+		"path": "packs/terrinoth-attachments.db",
+		"entity": "Item"
+	}
+	
+  ]
+  
+}
